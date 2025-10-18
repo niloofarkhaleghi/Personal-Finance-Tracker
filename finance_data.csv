@@ -1,0 +1,389 @@
+date,amount,category,description
+05-01-2023,75.00,Einnahme,Nebenjob - Nachhilfe
+08-01-2023,950.00,Ausgabe,Miete
+10-01-2023,42.30,Ausgabe,Lebensmittel - Aldi
+12-01-2023,19.90,Ausgabe,Internet/Handyvertrag
+15-01-2023,45.00,Einnahme,Zinsen - Sparkonto
+18-01-2023,28.50,Ausgabe,Café & Snacks
+20-01-2023,120.00,Einnahme,Geschenk - Eltern
+22-01-2023,35.40,Ausgabe,ÖPNV Monatskarte
+25-01-2023,65.00,Ausgabe,Kleidung
+28-01-2023,90.00,Ausgabe,Restaurant - Italienisch
+01-02-2023,2800.00,Einnahme,Gehalt
+04-02-2023,980.00,Ausgabe,Miete
+07-02-2023,75.00,Einnahme,Verkauf - Bücher
+09-02-2023,82.10,Ausgabe,Lebensmittel - Lidl
+12-02-2023,49.00,Ausgabe,ÖPNV Monatskarte
+15-02-2023,60.00,Ausgabe,Versicherung - Haftpflicht
+18-02-2023,35.00,Einnahme,Zinsen - Tagesgeld
+21-02-2023,33.00,Ausgabe,Streaming - Netflix
+23-02-2023,50.00,Einnahme,Geschenk - Freunde
+26-02-2023,40.00,Ausgabe,Bücher - Uni
+01-03-2023,2800.00,Einnahme,Gehalt
+03-03-2023,950.00,Ausgabe,Miete
+05-03-2023,95.00,Ausgabe,Lebensmittel - Rewe
+08-03-2023,45.00,Einnahme,Zinsen - Sparkonto
+10-03-2023,38.20,Ausgabe,Haushalt - DM
+12-03-2023,75.00,Einnahme,Nebenjob - Korrektur
+15-03-2023,55.90,Ausgabe,Restaurant - Mittagessen
+18-03-2023,29.99,Ausgabe,Fitnessstudio
+21-03-2023,120.00,Einnahme,Erstattung - Steuer
+23-03-2023,18.50,Ausgabe,Apotheke
+26-03-2023,60.00,Ausgabe,Bahn - Ticket
+29-03-2023,35.00,Einnahme,Zinsen - Tagesgeld
+01-04-2023,2850.00,Einnahme,Gehalt
+03-04-2023,950.00,Ausgabe,Miete
+06-04-2023,86.50,Ausgabe,Lebensmittel - Aldi
+09-04-2023,70.00,Einnahme,Geschenk - Familie
+12-04-2023,42.00,Ausgabe,Stromrechnung
+15-04-2023,95.00,Einnahme,Nebenjob - Übersetzung
+18-04-2023,36.40,Ausgabe,Restaurant - Abendessen
+20-04-2023,55.00,Einnahme,Verkauf - Kleidung
+23-04-2023,29.00,Ausgabe,Café & Snacks
+26-04-2023,80.00,Einnahme,Erstattung - Versicherung
+29-04-2023,62.30,Ausgabe,Lebensmittel - Rewe
+01-05-2023,2850.00,Einnahme,Gehalt
+03-05-2023,950.00,Ausgabe,Miete
+06-05-2023,35.00,Einnahme,Zinsen - Sparkonto
+08-05-2023,76.00,Ausgabe,Lebensmittel - Lidl
+12-05-2023,49.00,Ausgabe,ÖPNV Monatskarte
+15-05-2023,120.00,Einnahme,Nebenjob - Nachhilfe
+18-05-2023,40.00,Ausgabe,Bücher
+21-05-2023,25.00,Ausgabe,Streaming - Spotify
+24-05-2023,65.00,Einnahme,Geschenk - Freunde
+27-05-2023,58.70,Ausgabe,Kleidung
+30-05-2023,110.00,Einnahme,Verkauf - Möbel
+01-06-2023,2850.00,Einnahme,Gehalt
+03-06-2023,950.00,Ausgabe,Miete
+05-06-2023,90.25,Ausgabe,Lebensmittel - Rewe
+08-06-2023,35.00,Einnahme,Zinsen - Sparkonto
+10-06-2023,42.00,Ausgabe,Stromrechnung
+13-06-2023,55.00,Einnahme,Erstattung - Energie
+16-06-2023,33.20,Ausgabe,Restaurant - Abendessen
+19-06-2023,85.00,Einnahme,Nebenjob - Korrektur
+22-06-2023,29.99,Ausgabe,Fitnessstudio
+25-06-2023,45.00,Einnahme,Zinsen - Tagesgeld
+28-06-2023,55.90,Ausgabe,Haushalt - DM
+01-07-2023,2900.00,Einnahme,Gehalt
+03-07-2023,970.00,Ausgabe,Miete
+06-07-2023,100.00,Ausgabe,Lebensmittel - Aldi
+08-07-2023,35.00,Einnahme,Zinsen - Sparkonto
+11-07-2023,49.00,Ausgabe,ÖPNV Monatskarte
+14-07-2023,85.00,Einnahme,Nebenjob - Nachhilfe
+17-07-2023,72.30,Ausgabe,Restaurant - Geburtstag
+20-07-2023,125.00,Einnahme,Geschenk - Eltern
+23-07-2023,31.50,Ausgabe,Haushalt - DM
+26-07-2023,42.00,Einnahme,Zinsen - Tagesgeld
+29-07-2023,65.00,Ausgabe,Bücher - Uni
+01-08-2023,2900.00,Einnahme,Gehalt
+03-08-2023,970.00,Ausgabe,Miete
+06-08-2023,82.75,Ausgabe,Lebensmittel - Lidl
+09-08-2023,55.00,Einnahme,Verkauf - Kleidung
+12-08-2023,49.00,Ausgabe,ÖPNV Monatskarte
+15-08-2023,90.00,Einnahme,Erstattung - Versicherung
+18-08-2023,215.00,Ausgabe,Bahn - Wochenendtrip
+21-08-2023,35.00,Einnahme,Zinsen - Sparkonto
+24-08-2023,29.99,Ausgabe,Cloud-Speicher
+27-08-2023,120.00,Einnahme,Nebenjob - Übersetzung
+30-08-2023,45.60,Ausgabe,Restaurant - Asia
+01-09-2023,2900.00,Einnahme,Gehalt
+03-09-2023,970.00,Ausgabe,Miete
+05-09-2023,91.60,Ausgabe,Lebensmittel - Rewe
+08-09-2023,35.00,Einnahme,Zinsen - Sparkonto
+11-09-2023,49.00,Ausgabe,ÖPNV Monatskarte
+14-09-2023,100.00,Einnahme,Geschenk - Freunde
+17-09-2023,18.90,Ausgabe,Café & Snacks
+20-09-2023,45.00,Einnahme,Erstattung - Energie
+23-09-2023,27.80,Ausgabe,Café & Snacks
+26-09-2023,80.00,Einnahme,Nebenjob - Korrektur
+29-09-2023,32.40,Ausgabe,Bücher
+01-10-2023,2950.00,Einnahme,Gehalt
+03-10-2023,980.00,Ausgabe,Miete
+05-10-2023,89.30,Ausgabe,Lebensmittel - Aldi
+08-10-2023,45.00,Einnahme,Zinsen - Sparkonto
+10-10-2023,49.00,Ausgabe,ÖPNV Monatskarte
+13-10-2023,120.00,Einnahme,Erstattung - Steuer
+16-10-2023,320.00,Ausgabe,Studiengebühren
+19-10-2023,55.00,Einnahme,Geschenk - Eltern
+22-10-2023,36.40,Ausgabe,Restaurant - Sushi
+25-10-2023,75.00,Einnahme,Verkauf - Bücher
+28-10-2023,58.00,Ausgabe,Haushalt - DM
+01-11-2023,2950.00,Einnahme,Gehalt
+03-11-2023,980.00,Ausgabe,Miete
+06-11-2023,83.20,Ausgabe,Lebensmittel - Lidl
+09-11-2023,60.00,Einnahme,Nebenjob - Nachhilfe
+12-11-2023,49.00,Ausgabe,ÖPNV Monatskarte
+15-11-2023,62.10,Ausgabe,Heizkosten Nachzahlung
+18-11-2023,50.00,Einnahme,Zinsen - Sparkonto
+21-11-2023,55.00,Ausgabe,Kleidung - Wintermütze
+24-11-2023,95.00,Einnahme,Geschenk - Freunde
+27-11-2023,22.90,Ausgabe,Apotheke
+30-11-2023,75.00,Einnahme,Verkauf - Elektronik
+03-12-2023,980.00,Ausgabe,Miete
+06-12-2023,118.75,Ausgabe,Lebensmittel - Rewe
+09-12-2023,65.00,Einnahme,Zinsen - Tagesgeld
+12-12-2023,49.00,Ausgabe,ÖPNV Monatskarte
+15-12-2023,120.00,Einnahme,Weihnachtsbonus - Nebenjob
+18-12-2023,210.00,Ausgabe,Weihnachtsgeschenke
+21-12-2023,45.00,Einnahme,Geschenk - Eltern
+24-12-2023,35.00,Ausgabe,Weihnachtsmarkt
+27-12-2023,75.00,Einnahme,Nebenjob - Korrektur
+30-12-2023,75.00,Ausgabe,Silvester - Party
+01-01-2024,3000.00,Einnahme,Gehalt
+03-01-2024,990.00,Ausgabe,Miete
+05-01-2024,95.40,Ausgabe,Lebensmittel - Aldi
+08-01-2024,55.00,Einnahme,Zinsen - Sparkonto
+10-01-2024,49.00,Ausgabe,ÖPNV Monatskarte
+13-01-2024,29.99,Ausgabe,Fitnessstudio
+16-01-2024,80.00,Einnahme,Nebenjob - Übersetzung
+19-01-2024,18.50,Ausgabe,Apotheke
+22-01-2024,45.00,Einnahme,Geschenk - Familie
+25-01-2024,35.00,Ausgabe,Café & Snacks
+28-01-2024,60.00,Einnahme,Verkauf - Kleidung
+01-02-2024,3000.00,Einnahme,Gehalt
+03-02-2024,990.00,Ausgabe,Miete
+06-02-2024,88.10,Ausgabe,Lebensmittel - Lidl
+09-02-2024,35.00,Einnahme,Zinsen - Tagesgeld
+12-02-2024,49.00,Ausgabe,ÖPNV Monatskarte
+15-02-2024,90.00,Einnahme,Nebenjob - Nachhilfe
+18-02-2024,43.70,Ausgabe,Stromrechnung
+21-02-2024,55.00,Einnahme,Erstattung - Energie
+24-02-2024,26.90,Ausgabe,Café & Snacks
+27-02-2024,60.00,Einnahme,Verkauf - Bücher
+01-03-2024,3050.00,Einnahme,Gehalt
+03-03-2024,990.00,Ausgabe,Miete
+07-03-2024,102.60,Ausgabe,Lebensmittel - Rewe
+10-03-2024,45.00,Einnahme,Zinsen - Sparkonto
+13-03-2024,49.00,Ausgabe,ÖPNV Monatskarte
+16-03-2024,59.90,Ausgabe,Versicherung - Hausrat
+19-03-2024,90.00,Einnahme,Nebenjob - Übersetzung
+22-03-2024,44.20,Ausgabe,Restaurant - Italienisch
+25-03-2024,65.00,Einnahme,Geschenk - Eltern
+28-03-2024,29.90,Ausgabe,Cloud-Speicher
+01-04-2024,3050.00,Einnahme,Gehalt
+03-04-2024,990.00,Ausgabe,Miete
+05-04-2024,86.30,Ausgabe,Lebensmittel - Aldi
+08-04-2024,75.00,Einnahme,Zinsen - Sparkonto
+11-04-2024,49.00,Ausgabe,ÖPNV Monatskarte
+14-04-2024,120.00,Ausgabe,Zahnarzt
+17-04-2024,85.00,Einnahme,Nebenjob - Korrektur
+20-04-2024,22.50,Ausgabe,Haushalt - Reinigungsmittel
+23-04-2024,60.00,Einnahme,Verkauf - Möbel
+26-04-2024,40.00,Ausgabe,Bücher - Fachliteratur
+29-04-2024,95.00,Einnahme,Geschenk - Freunde
+01-05-2024,3050.00,Einnahme,Gehalt
+03-05-2024,1000.00,Ausgabe,Miete
+06-05-2024,94.80,Ausgabe,Lebensmittel - Lidl
+09-05-2024,35.00,Einnahme,Zinsen - Sparkonto
+12-05-2024,49.00,Ausgabe,ÖPNV Monatskarte
+15-05-2024,120.00,Einnahme,Nebenjob - Nachhilfe
+18-05-2024,280.00,Ausgabe,Reise - Flug
+21-05-2024,65.00,Einnahme,Erstattung - Versicherung
+24-05-2024,310.00,Ausgabe,Hotel - Wochenende
+27-05-2024,80.00,Einnahme,Verkauf - Kleidung
+30-05-2024,33.50,Ausgabe,Café & Snacks
+01-06-2024,3100.00,Einnahme,Gehalt
+03-06-2024,1000.00,Ausgabe,Miete
+06-06-2024,90.25,Ausgabe,Lebensmittel - Rewe
+09-06-2024,35.00,Einnahme,Zinsen - Tagesgeld
+12-06-2024,49.00,Ausgabe,ÖPNV Monatskarte
+15-06-2024,39.99,Ausgabe,Streaming - Spotify
+18-06-2024,55.00,Einnahme,Nebenjob - Übersetzung
+21-06-2024,52.30,Ausgabe,Kleidung - T-Shirt
+24-06-2024,45.00,Einnahme,Geschenk - Familie
+27-06-2024,40.00,Ausgabe,Bücher - Roman
+30-06-2024,95.00,Einnahme,Verkauf - Elektronik
+01-07-2024,3100.00,Einnahme,Gehalt
+03-07-2024,1000.00,Ausgabe,Miete
+06-07-2024,96.10,Ausgabe,Lebensmittel - Aldi
+09-07-2024,35.00,Einnahme,Zinsen - Sparkonto
+12-07-2024,49.00,Ausgabe,ÖPNV Monatskarte
+15-07-2024,125.65,Einnahme,Nebenjob - Nachhilfe
+18-07-2024,85.40,Ausgabe,Lebensmittel - Rewe
+21-07-2024,50.00,Einnahme,Geschenk - Eltern
+24-07-2024,28.40,Ausgabe,Café & Snacks
+27-07-2024,45.00,Einnahme,Erstattung - Energie
+30-07-2024,60.00,Ausgabe,Kleidung
+01-08-2024,3150.00,Einnahme,Gehalt
+03-08-2024,1010.00,Ausgabe,Miete
+06-08-2024,87.55,Ausgabe,Lebensmittel - Lidl
+09-08-2024,40.00,Einnahme,Zinsen - Tagesgeld
+12-08-2024,49.00,Ausgabe,ÖPNV Monatskarte
+15-08-2024,90.00,Einnahme,Nebenjob - Übersetzung
+18-08-2024,45.60,Ausgabe,Stromrechnung
+21-08-2024,33.00,Ausgabe,Restaurant - Asia
+24-08-2024,65.00,Einnahme,Verkauf - Bücher
+27-08-2024,25.00,Ausgabe,Streaming - Spotify
+30-08-2024,80.00,Einnahme,Geschenk - Freunde
+01-09-2024,3150.00,Einnahme,Gehalt
+03-09-2024,1010.00,Ausgabe,Miete
+05-09-2024,99.80,Ausgabe,Lebensmittel - Rewe
+08-09-2024,35.00,Einnahme,Zinsen - Sparkonto
+12-09-2024,49.00,Ausgabe,ÖPNV Monatskarte
+15-09-2024,65.00,Einnahme,Nebenjob - Nachhilfe
+18-09-2024,45.20,Ausgabe,Stromrechnung
+21-09-2024,22.90,Ausgabe,Bücher - Fachliteratur
+24-09-2024,55.00,Einnahme,Erstattung - Versicherung
+27-09-2024,19.99,Ausgabe,Cloud-Speicher
+30-09-2024,95.00,Einnahme,Geschenk - Familie
+01-10-2024,3200.00,Einnahme,Gehalt
+03-10-2024,1010.00,Ausgabe,Miete
+06-10-2024,91.45,Ausgabe,Lebensmittel - Aldi
+09-10-2024,35.00,Einnahme,Zinsen - Tagesgeld
+13-10-2024,49.00,Ausgabe,ÖPNV Monatskarte
+16-10-2024,60.00,Ausgabe,Versicherung - Haftpflicht
+19-10-2024,80.00,Einnahme,Nebenjob - Übersetzung
+22-10-2024,41.20,Ausgabe,Restaurant - Pizza
+25-10-2024,45.00,Einnahme,Verkauf - Kleidung
+28-10-2024,30.00,Ausgabe,Café & Snacks
+31-10-2024,70.00,Einnahme,Geschenk - Eltern
+01-11-2024,3200.00,Einnahme,Gehalt
+03-11-2024,1010.00,Ausgabe,Miete
+06-11-2024,84.15,Ausgabe,Lebensmittel - Lidl
+09-11-2024,35.00,Einnahme,Zinsen - Sparkonto
+15-11-2024,49.00,Ausgabe,ÖPNV Monatskarte
+18-11-2024,58.40,Ausgabe,Heizkosten Abschlag
+21-11-2024,75.00,Einnahme,Verkauf - Bücher
+24-11-2024,30.00,Ausgabe,Café & Snacks
+27-11-2024,65.00,Einnahme,Geschenk - Freunde
+30-11-2024,75.00,Ausgabe,Geschenk - Familie
+01-12-2024,3200.00,Einnahme,Gehalt
+03-12-2024,1010.00,Ausgabe,Miete
+06-12-2024,120.30,Ausgabe,Lebensmittel - Rewe
+09-12-2024,40.00,Einnahme,Zinsen - Sparkonto
+12-12-2024,49.00,Ausgabe,ÖPNV Monatskarte
+15-12-2024,220.00,Ausgabe,Weihnachtsgeschenke
+18-12-2024,95.00,Einnahme,Weihnachtsbonus - Nebenjob
+21-12-2024,38.50,Ausgabe,Restaurant - Tapas
+24-12-2024,75.00,Einnahme,Geschenk - Eltern
+27-12-2024,55.00,Ausgabe,Kleidung
+30-12-2024,45.00,Einnahme,Zinsen - Tagesgeld
+01-01-2025,3250.00,Einnahme,Gehalt
+03-01-2025,1020.00,Ausgabe,Miete
+06-01-2025,98.70,Ausgabe,Lebensmittel - Aldi
+09-01-2025,40.00,Einnahme,Zinsen - Sparkonto
+12-01-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-01-2025,29.99,Ausgabe,Fitnessstudio
+18-01-2025,75.00,Einnahme,Nebenjob - Nachhilfe
+21-01-2025,21.70,Ausgabe,Apotheke
+24-01-2025,100.00,Einnahme,Bonuszahlung
+27-01-2025,27.50,Ausgabe,Café & Snacks
+30-01-2025,45.00,Einnahme,Geschenk - Freunde
+01-02-2025,3250.00,Einnahme,Gehalt
+03-02-2025,1020.00,Ausgabe,Miete
+06-02-2025,92.35,Ausgabe,Lebensmittel - Lidl
+09-02-2025,35.00,Einnahme,Zinsen - Tagesgeld
+12-02-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-02-2025,44.80,Ausgabe,Stromrechnung
+18-02-2025,150.00,Einnahme,Steuerrückerstattung
+21-02-2025,30.00,Ausgabe,Bücher
+24-02-2025,75.00,Einnahme,Nebenjob - Übersetzung
+27-02-2025,29.00,Ausgabe,Restaurant - Mittagessen
+01-03-2025,3300.00,Einnahme,Gehalt
+03-03-2025,1020.00,Ausgabe,Miete
+06-03-2025,105.60,Ausgabe,Lebensmittel - Rewe
+09-03-2025,40.00,Einnahme,Zinsen - Sparkonto
+12-03-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-03-2025,62.00,Ausgabe,Versicherung - Hausrat
+18-03-2025,180.00,Einnahme,Verkauf - Möbel
+21-03-2025,55.90,Ausgabe,Kleidung - Schuhe
+24-03-2025,75.00,Einnahme,Nebenjob - Nachhilfe
+27-03-2025,28.50,Ausgabe,Café & Snacks
+30-03-2025,50.00,Einnahme,Geschenk - Eltern
+01-04-2025,3300.00,Einnahme,Gehalt
+03-04-2025,1020.00,Ausgabe,Miete
+06-04-2025,88.40,Ausgabe,Lebensmittel - Aldi
+09-04-2025,35.00,Einnahme,Zinsen - Tagesgeld
+12-04-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-04-2025,135.00,Ausgabe,Zahnarzt
+18-04-2025,70.00,Einnahme,Nebenjob - Übersetzung
+21-04-2025,27.50,Ausgabe,Café & Snacks
+24-04-2025,65.00,Einnahme,Verkauf - Bücher
+27-04-2025,40.00,Ausgabe,Bücher - Fachliteratur
+30-04-2025,95.00,Einnahme,Geschenk - Freunde
+01-05-2025,3300.00,Einnahme,Gehalt
+03-05-2025,1030.00,Ausgabe,Miete
+06-05-2025,95.25,Ausgabe,Lebensmittel - Lidl
+09-05-2025,35.00,Einnahme,Zinsen - Sparkonto
+12-05-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-05-2025,295.00,Ausgabe,Reise - Bahn
+18-05-2025,65.00,Einnahme,Zinsen - Sparkonto
+21-05-2025,310.00,Ausgabe,Hotel - Citytrip
+24-05-2025,65.00,Einnahme,Geschenk - Familie
+27-05-2025,30.00,Ausgabe,Café & Snacks
+30-05-2025,95.00,Einnahme,Verkauf - Kleidung
+01-06-2025,3350.00,Einnahme,Gehalt
+03-06-2025,1030.00,Ausgabe,Miete
+06-06-2025,89.90,Ausgabe,Lebensmittel - Rewe
+09-06-2025,35.00,Einnahme,Zinsen - Tagesgeld
+12-06-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-06-2025,39.99,Ausgabe,Streaming - Spotify
+18-06-2025,100.00,Einnahme,Erstattung - Versicherung
+21-06-2025,48.60,Ausgabe,Restaurant - Burger
+24-06-2025,45.00,Einnahme,Geschenk - Eltern
+27-06-2025,35.00,Ausgabe,Bücher - Roman
+30-06-2025,70.00,Einnahme,Verkauf - Möbel
+01-07-2025,3350.00,Einnahme,Gehalt
+03-07-2025,1030.00,Ausgabe,Miete
+06-07-2025,97.15,Ausgabe,Lebensmittel - Aldi
+09-07-2025,35.00,Einnahme,Zinsen - Tagesgeld
+12-07-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-07-2025,125.00,Einnahme,Nebenjob - Korrektur
+18-07-2025,34.00,Ausgabe,Haushalt - DM
+21-07-2025,45.00,Einnahme,Geschenk - Familie
+24-07-2025,33.00,Ausgabe,Restaurant - Asia
+27-07-2025,100.00,Einnahme,Geschenk - Geburtstag
+30-07-2025,25.00,Ausgabe,Streaming - Netflix
+01-08-2025,3400.00,Einnahme,Gehalt
+03-08-2025,1040.00,Ausgabe,Miete
+06-08-2025,86.70,Ausgabe,Lebensmittel - Lidl
+09-08-2025,35.00,Einnahme,Zinsen - Tagesgeld
+12-08-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-08-2025,46.30,Ausgabe,Stromrechnung
+18-08-2025,200.00,Einnahme,Erstattung - Krankenversicherung
+21-08-2025,29.90,Ausgabe,Cloud-Speicher
+24-08-2025,65.00,Einnahme,Verkauf - Bücher
+27-08-2025,30.00,Ausgabe,Café & Snacks
+30-08-2025,95.00,Einnahme,Nebenjob - Übersetzung
+01-09-2025,3400.00,Einnahme,Gehalt
+03-09-2025,1040.00,Ausgabe,Miete
+06-09-2025,101.40,Ausgabe,Lebensmittel - Rewe
+09-09-2025,35.00,Einnahme,Zinsen - Sparkonto
+12-09-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-09-2025,58.20,Ausgabe,Kleidung - Jeans
+18-09-2025,150.00,Einnahme,Dividende - Aktienfonds
+21-09-2025,42.70,Ausgabe,Restaurant - Indisch
+24-09-2025,50.00,Einnahme,Geschenk - Freunde
+27-09-2025,30.00,Ausgabe,Haushalt - Reinigungsmittel
+30-09-2025,70.00,Einnahme,Verkauf - Möbel
+01-10-2025,3450.00,Einnahme,Gehalt
+03-10-2025,1040.00,Ausgabe,Miete
+06-10-2025,93.80,Ausgabe,Lebensmittel - Aldi
+09-10-2025,50.00,Einnahme,Zinsen - Sparkonto
+12-10-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-10-2025,60.00,Ausgabe,Versicherung - Haftpflicht
+17-10-2025,125.00,Einnahme,Nebenjob - Side Gig
+20-10-2025,23.60,Ausgabe,Café & Snacks
+23-10-2025,65.00,Einnahme,Erstattung - Energie
+26-10-2025,35.00,Ausgabe,Bücher - Uni
+29-10-2025,80.00,Einnahme,Verkauf - Kleidung
+01-11-2025,3450.00,Einnahme,Gehalt
+03-11-2025,1040.00,Ausgabe,Miete
+06-11-2025,94.60,Ausgabe,Lebensmittel - Lidl
+09-11-2025,35.00,Einnahme,Zinsen - Sparkonto
+12-11-2025,49.00,Ausgabe,ÖPNV Monatskarte
+15-11-2025,55.00,Ausgabe,Heizkosten
+18-11-2025,90.00,Einnahme,Nebenjob - Übersetzung
+21-11-2025,28.30,Ausgabe,Café & Snacks
+24-11-2025,75.00,Einnahme,Geschenk - Freunde
+27-11-2025,20.00,Ausgabe,Streaming - Spotify
+30-11-2025,350.00,Einnahme,Weihnachtsbonus
+01-12-2025,1040.00,Ausgabe,Miete
+05-12-2025,118.75,Ausgabe,Lebensmittel - Rewe
+08-12-2025,49.00,Ausgabe,ÖPNV Monatskarte
+12-12-2025,220.00,Ausgabe,Weihnachtsgeschenke
+18-12-2025,60.00,Ausgabe,Restaurant - Abendessen
+21-12-2025,350.00,Einnahme,Weihnachtsbonus - Nebenjob
+25-12-2025,75.00,Einnahme,Geschenk - Familie
+28-12-2025,38.00,Ausgabe,Weihnachtsmarkt
+31-12-2025,80.00,Ausgabe,Silvester - Party
